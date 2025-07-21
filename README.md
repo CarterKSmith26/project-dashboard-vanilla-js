@@ -1,1 +1,1 @@
-# project-dashboard-vanilla-js
+In this project, you will build a Product Dashboard for a business using HTML, CSS, and JavaScript. The dashboard will fetch and display product data from an external API. You will use fetch(), .then(), async/await, try, and catch to handle asynchronous operations. You will also enhance the user interface with interactive hover effects for product cards.
